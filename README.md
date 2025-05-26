@@ -63,11 +63,8 @@ This project is a great exercise to understand:
 
 ## 👨‍💻 Author
 
-Made with 💻 by [Your Name]
+Made with 💻 by [shamsate]
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 	
 	
 	———————————————————————————————————————————————————————————————------------------------------                  

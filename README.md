@@ -54,20 +54,6 @@ int main(void) {
 }
 ```
 
-## 📁 Project Structure
-
-```
-.
-├── ft_printf.c
-├── ft_printf.h
-├── utils/
-│   ├── ft_putchar.c
-│   ├── ft_putstr.c
-│   ├── ft_putnbr.c
-│   └── ...
-└── README.md
-```
-
 ## 📚 Learning Outcome
 
 This project is a great exercise to understand:

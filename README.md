@@ -1,4 +1,8 @@
-    # ft_printf
+    
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/c03cfe0a-a360-459c-8896-c1091304140b" alt="ft-printf" />
+</p>
+
 
 This project is a custom implementation of the standard C `printf` function. The goal is to gain a deeper understanding of how variadic functions work in C by recreating the behavior of `printf` from scratch.
 
